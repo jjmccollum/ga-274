@@ -1,0 +1,52 @@
+<!DOCTYPE TEI><?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>A transcription of John in 274S3</title><title type="document" n="274S3">274S3</title></titleStmt><publicationStmt><p>Temporary PublicationStmt for validation</p></publicationStmt><sourceDesc><p>Temporary sourceDesc for validation</p></sourceDesc></fileDesc></teiHeader><text xml:lang="GRC"><body><div type="book" n="B04">
+<pb n="194r" type="folio" xml:id="P194r-274S3"/>
+<cb n="P194rC1-274S3"/>
+<lb n="P194rC1L-274S3"/><gap reason="lacuna" unit="book" extent="part"/><div type="chapter" n="B04K9"><gap reason="lacuna" unit="chapter" extent="part"/><ab n="B04K9V10"><gap reason="lacuna" unit="verse" extent="part"/><w>ουν</w><w>αυτω</w><w>πως</w><w>ηνεωχθησαν</w><w>σου</w><w>οι</w><w>οφθαλμοι</w>
+<lb n="P194rC1L-274S3"/></ab><ab n="B04K9V11"><w>απεκριθη</w><w>εκεινος</w><w>και</w><w>ειπεν</w><w><abbr type="nomSac"><hi rend="overline">ανος</hi></abbr></w><app><rdg type="orig" hand="firsthand"><w>λεγομενος</w></rdg><rdg type="corr" hand="corrector"/></app><w>λε
+<lb n="P194rC1L-274S3" break="no"/>γομενος</w><w><abbr type="nomSac"><hi rend="overline">ις</hi></abbr></w><w>πιλον</w><w>εποιησεν</w><w>και</w><w>επεχρησεν</w><w>μου</w>
+<lb n="P194rC1L-274S3"/><w>τους</w><w>οφθαλμους</w><w>και</w><w>ειπεν</w><w>μοι</w><w>υπαγε</w><w>εις</w><w>την</w><w>κο
+<lb n="P194rC1L-274S3" break="no"/>λυβηθραν</w><w>του</w><w>σιλωαμ</w><w>και</w><w>νιψαι</w><w>απελθων</w><w>δε</w>
+<lb n="P194rC1L-274S3"/><w>και</w><w>νιψαμενος</w><w>ανεβλεψα</w></ab><ab n="B04K9V12"><w>ειπον</w><w>ουν</w><w>αυτω</w><w>που</w>
+<lb n="P194rC1L-274S3"/><w>εστιν</w><w>εκεινος</w><w>λεγει</w><w>ουκ</w><w>οιδα</w></ab><ab n="B04K9V13"><w>αγουσιν</w><w>αυτον</w><w>προς</w>
+<lb n="P194rC1L-274S3"/><w>τους</w><w>φαρισαιους</w><w>τον</w><w>ποτε</w><w>τυφλον</w></ab><ab n="B04K9V14"><w>ην</w><w>δε</w><w>σαββατον</w>
+<lb n="P194rC1L-274S3"/><w>οτε</w><w>τον</w><w>πηλον</w><w>εποιησεν</w><w>ο</w><w><abbr type="nomSac"><hi rend="overline">ις</hi></abbr></w><w>και</w><w>ανεωξεν</w><w>αυτου</w>
+<lb n="P194rC1L-274S3"/><w>τους</w><w>οφθαλμους</w></ab><ab n="B04K9V15"><w>παλιν</w><w>ουν</w><w>ηρωτον</w><w>οι</w><w>φαρι
+<lb n="P194rC1L-274S3" break="no"/>σαιοι</w><w>πως</w><w>ανεβλεψεν</w><w>ο</w><w>δε</w><w>ειπεν</w><w>αυτοις</w><w>πη
+<lb n="P194rC1L-274S3" break="no"/>λον</w><w>επεθηκεν</w><w>μου</w><w>επι</w><w>τους</w><w>οφθαλμους</w><w>και</w><w>ενιψα
+<lb n="P194rC1L-274S3" break="no"/>μην</w><w>και</w><w>βλεπω</w></ab><ab n="B04K9V16"><w>ελεγων</w><w>ουν</w><w>εκ</w><w>των</w><w>φαρισαιων</w>
+<lb n="P194rC1L-274S3"/><w>τινες</w><w>ουτος</w><w>ο</w><w><abbr type="nomSac"><hi rend="overline">ανος</hi></abbr></w><w>ουκ</w><w>εστιν</w><w>παρα</w><app><rdg type="orig" hand="firsthand"/><rdg type="corr" hand="corrector"><w>του</w></rdg></app><w><abbr type="nomSac"><hi rend="overline">θυ</hi></abbr></w><w>ο
+<lb n="P194rC1L-274S3" break="no"/>τι</w><w>το</w><w>σαββατον</w><w>ου</w><w>τυρει</w><w>αλλοι</w><w>ελεγον</w>
+<lb n="P194rC1L-274S3"/><w>πως</w><w>δυναται</w><w><abbr type="nomSac"><hi rend="overline">ανος</hi></abbr></w><w>αμαρτωλος</w><w>τοιαυτα</w><w>ση
+<lb n="P194rC1L-274S3" break="no"/>μεια</w><w>ποιειν</w><w>και</w><w>σχισμα</w><w>ην</w><w>εν</w><w>αυτοις</w></ab><ab n="B04K9V17"><w>λεγουσιν</w>
+<lb n="P194rC1L-274S3"/><w>τω</w><w>τυφλω</w><w>παλιν</w><w>συ</w><w>τι</w><w>λεγει</w><w>περι</w><w>αυτου</w><w>οτι</w><w>η
+<lb n="P194rC1L-274S3" break="no"/>νυξεν</w><w>σου</w><w>τους</w><w>οφθαλμους</w><w>ο</w><w>δε</w><w>ειπεν</w><w>οτι</w><w>προ
+<lb n="P194rC1L-274S3" break="no"/>φητης</w><w>εστιν</w></ab><ab n="B04K9V18"><w>ουκ</w><w>επιστευσαν</w><w>ουν</w><w>οι</w><w>ιουδαιοι</w>
+<lb n="P194rC1L-274S3"/><w>περι</w><w>αυτου</w><w>οτι</w><w>τυφλος</w><w>ην</w><w>και</w><w>ανεβλεψεν</w><w>ε
+<lb n="P194rC1L-274S3" break="no"/>ως</w><w>οτου</w><w>εφωνησαν</w><w>τους</w><w>γωνεις</w><w>αυτου</w><w>του</w><w>α
+<lb n="P194rC1L-274S3" break="no"/>ναβλεψαντος</w></ab><ab n="B04K9V19"><w>και</w><w>ηρωτησαν</w><w>αυτους</w><w>λεγοντες</w>
+<lb n="P194rC1L-274S3"/><w>ουτος</w><w>εστιν</w><w>ο</w><w>υιος</w><w>υμων</w><w>ον</w><w>υμεις</w><w>λεγεται</w><w>οτι</w>
+<pb n="194v" type="folio" xml:id="P194v-274S3"/>
+<cb n="P194vC1-274S3"/>
+<lb n="P194vC1L-274S3"/><w>τυφλος</w><w>εγενηθη</w><w>πως</w><w>ουν</w><w>αρτι</w><w>βλεπει</w>
+<lb n="P194vC1L-274S3"/></ab><ab n="B04K9V20"><w>απεκριθησαν</w><w>δε</w><w>αυτοις</w><w>οι</w><w>γωνεις</w><w>αυτου</w>
+<lb n="P194vC1L-274S3"/><w>και</w><w>ειπον</w><w>οιδαμεν</w><w>οτι</w><w>ουτος</w><w>εστιν</w><w>ο</w><w>υι
+<lb n="P194vC1L-274S3" break="no"/>ος</w><w>ημων</w><w>και</w><w>οτι</w><w>τυφλος</w><w>εγενηθη</w></ab><ab n="B04K9V21"><w>πως</w>
+<lb n="P194vC1L-274S3"/><w>δε</w><w>νυν</w><w>βλεπει</w><w>ουκ</w><w>οιδαμεν</w><w>η</w><app><rdg type="orig" hand="firsthand"><w>πως</w></rdg><rdg type="corr" hand="corrector"/></app><w>τις</w>
+<lb n="P194vC1L-274S3"/><w>ηνυξεν</w><w>αυτου</w><w>τους</w><w>οφθαλμους</w><w>ημεις</w><w>ου
+<lb n="P194vC1L-274S3" break="no"/>κ</w><w>οιδαμεν</w><w>αυτος</w><w>ιλικιαν</w><w>εχει</w><w>αυτον</w>
+<lb n="P194vC1L-274S3"/><w>ερωτησατε</w><w>αυτος</w><w>λαλησει</w><w>τα</w><w>περι</w><w>αυτου</w>
+<lb n="P194vC1L-274S3"/></ab><ab n="B04K9V22"><w><supplied source="transcriber" reason="illegible">τ</supplied>αυτα</w><note type="local" xml:id="B04K9V22-274S3-1">A drop-cap τ was probably intended, but not written.</note><w>ειπον</w><w>οι</w><w>γωνεις</w><w>αυτου</w><w>οτι</w><w>εφοβουν
+<lb n="P194vC1L-274S3" break="no"/>το</w><w>τους</w><w>ιουδαιους</w><w>ηδη</w><w>γαρ</w><w>συνετεθειντο</w><w>οι</w>
+<lb n="P194vC1L-274S3"/><w>ιουδαιοι</w><w>εαν</w><w>τις</w><w>αυτον</w><w>ομολογησει</w><w><abbr type="nomSac"><hi rend="overline">χν</hi></abbr></w><w>α
+<lb n="P194vC1L-274S3" break="no"/>ποσυναγωγος</w><w>γεννηται</w></ab><ab n="B04K9V23"><w>δια</w><w>τουτο</w><w>οι</w><w>γωνεις</w>
+<lb n="P194vC1L-274S3"/><w>αυτου</w><w>ειπον</w><w>οτι</w><w>ηλικιαν</w><w>εχει</w><w>αυτον</w><w>ε
+<lb n="P194vC1L-274S3" break="no"/>ρωτησατε</w></ab><ab n="B04K9V24"><w>εφωνησαν</w><w>ουν</w><w>εκ</w><w>δευτε
+<lb n="P194vC1L-274S3" break="no"/>ρου</w><w>τον</w><w><abbr type="nomSac"><hi rend="overline">ανον</hi></abbr></w><w>ος</w><w>ην</w><w>τυφλος</w><w>και</w><w>ειπον</w>
+<lb n="P194vC1L-274S3"/><w>αυτω</w><w>δος</w><w>δοξαν</w><w>τω</w><w><abbr type="nomSac"><hi rend="overline">θω</hi></abbr></w><w>ημεις</w><w>οιδαμεν</w>
+<lb n="P194vC1L-274S3"/><w>οτι</w><w>ο</w><w><abbr type="nomSac"><hi rend="overline">ανος</hi></abbr></w><w>ουτος</w><w>αμαρτωλος</w><w>εστιν</w></ab><ab n="B04K9V25"><w>απε
+<lb n="P194vC1L-274S3" break="no"/>κριθη</w><w>ουν</w><w>εκεινος</w><w>και</w><w>ειπεν</w><w>ει</w><w>αμαρτωλος</w>
+<lb n="P194vC1L-274S3"/><w>εστιν</w><w>ουκ</w><w>οιδα</w><w>εν</w><w>οιδα</w><w>οτι</w><w>τυφλος</w><w>ων</w>
+<lb n="P194vC1L-274S3"/><w>αρτι</w><w>βλεπω</w></ab><ab n="B04K9V26"><w>ειπον</w><w>δε</w><w>αυτο</w><w>παλιν</w><app><rdg type="orig" hand="firsthand"><w>τη</w></rdg><rdg type="corr" hand="corrector"><w>τι</w></rdg></app><w>ε
+<lb n="P194vC1L-274S3" break="no"/>ποιησε</w><w>σοι</w><w>πως</w><w>ηνεωξεν</w><w>σου</w><w>τους</w><w>οφθαλ
+<lb n="P194vC1L-274S3" break="no"/>μους</w></ab><ab n="B04K9V27"><w>απεκριθη</w><w>αυτοις</w><w>ειπον</w><w>υμιν</w><w>ηδη</w>
+<lb n="P194vC1L-274S3"/><w>και</w><w>ουκ</w><w>ηκουσατε</w><gap reason="lacuna" unit="verse" extent="part"/><gap reason="lacuna" unit="chapter" extent="part"/><gap reason="lacuna" unit="book" extent="part"/><gap reason="witnessEnd"/></ab></div></div></body></text></TEI>
