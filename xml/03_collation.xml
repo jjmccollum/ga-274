@@ -3,8 +3,8 @@
   <teiHeader>
     <sourceDesc>
       <listWit>
-        <witness xml:id="RP"/>
-        <witness xml:id="274"/>
+        <witness n="RP"/>
+        <witness n="274"/>
       </listWit>
     </sourceDesc>
   </teiHeader>

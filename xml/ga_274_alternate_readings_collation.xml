@@ -3,146 +3,146 @@
 	<teiHeader>
 		<sourceDesc>
 			<listWit>
-				<witness xml:id="P3" />
-				<witness xml:id="P4" />
-				<witness xml:id="P37" />
-				<witness xml:id="P45" />
-				<witness xml:id="P53" />
-				<witness xml:id="P59" />
-				<witness xml:id="P66" />
-				<witness xml:id="P69" />
-				<witness xml:id="P75" />
-				<witness xml:id="P88" />
-				<witness xml:id="P120" />
-				<witness xml:id="01" />
-				<witness xml:id="02" />
-				<witness xml:id="03" />
-				<witness xml:id="04" />
-				<witness xml:id="05" />
-				<witness xml:id="07" />
-				<witness xml:id="09" />
-				<witness xml:id="011" />
-				<witness xml:id="013" />
-				<witness xml:id="017" />
-				<witness xml:id="019" />
-				<witness xml:id="021" />
-				<witness xml:id="022" />
-				<witness xml:id="023" />
-				<witness xml:id="024" />
-				<witness xml:id="026" />
-				<witness xml:id="027" />
-				<witness xml:id="028" />
-				<witness xml:id="029" />
-				<witness xml:id="030" />
-				<witness xml:id="031" />
-				<witness xml:id="032" />
-				<witness xml:id="033" />
-				<witness xml:id="034" />
-				<witness xml:id="035" />
-				<witness xml:id="036" />
-				<witness xml:id="037" />
-				<witness xml:id="038" />
-				<witness xml:id="039" />
-				<witness xml:id="040" />
-				<witness xml:id="041" />
-				<witness xml:id="042" />
-				<witness xml:id="043" />
-				<witness xml:id="044" />
-				<witness xml:id="045" />
-				<witness xml:id="050" />
-				<witness xml:id="053" />
-				<witness xml:id="054" />
-				<witness xml:id="063" />
-				<witness xml:id="070" />
-				<witness xml:id="083" />
-				<witness xml:id="085" />
-				<witness xml:id="0102" />
-				<witness xml:id="0105" />
-				<witness xml:id="0115" />
-				<witness xml:id="0141" />
-				<witness xml:id="0162" />
-				<witness xml:id="0211" />
-				<witness xml:id="0234" />
-				<witness xml:id="0274" />
-				<witness xml:id="0283" />
-				<witness xml:id="0287" />
-				<witness xml:id="0290" />
-				<witness xml:id="0292" />
-				<witness xml:id="0315" />
-				<witness xml:id="f1" />
-				<witness xml:id="f13" />
-				<witness xml:id="f35" />
-				<witness xml:id="2" />
-				<witness xml:id="9" />
-				<witness xml:id="16" />
-				<witness xml:id="22" />
-				<witness xml:id="27" />
-				<witness xml:id="33" />
-				<witness xml:id="71" />
-				<witness xml:id="75" />
-				<witness xml:id="114" />
-				<witness xml:id="119" />
-				<witness xml:id="157" />
-				<witness xml:id="161" />
-				<witness xml:id="164" />
-				<witness xml:id="184" />
-				<witness xml:id="199" />
-				<witness xml:id="217" />
-				<witness xml:id="269" />
-				<witness xml:id="274" />
-				<witness xml:id="291" />
-				<witness xml:id="371" />
-				<witness xml:id="372" />
-				<witness xml:id="431" />
-				<witness xml:id="449" />
-				<witness xml:id="461" />
-				<witness xml:id="517" />
-				<witness xml:id="544" />
-				<witness xml:id="545" />
-				<witness xml:id="565" />
-				<witness xml:id="579" />
-				<witness xml:id="585" />
-				<witness xml:id="700" />
-				<witness xml:id="726" />
-				<witness xml:id="740" />
-				<witness xml:id="804" />
-				<witness xml:id="892" />
-				<witness xml:id="954" />
-				<witness xml:id="1005" />
-				<witness xml:id="1071" />
-				<witness xml:id="1079" />
-				<witness xml:id="1093" />
-				<witness xml:id="1167" />
-				<witness xml:id="1192" />
-				<witness xml:id="1200" />
-				<witness xml:id="1216" />
-				<witness xml:id="1241" />
-				<witness xml:id="1243" />
-				<witness xml:id="1273" />
-				<witness xml:id="1319" />
-				<witness xml:id="1321" />
-				<witness xml:id="1325" />
-				<witness xml:id="1342" />
-				<witness xml:id="1365" />
-				<witness xml:id="1424" />
-				<witness xml:id="1519" />
-				<witness xml:id="1574" />
-				<witness xml:id="1675" />
-				<witness xml:id="2597" />
-				<witness xml:id="2786" />
-				<witness xml:id="L63" />
-				<witness xml:id="L387" />
-				<witness xml:id="L547" />
-				<witness xml:id="L627" />
-				<witness xml:id="L773" />
-				<witness xml:id="L844" />
-				<witness xml:id="L846" />
-				<witness xml:id="L848" />
-				<witness xml:id="L849" />
-				<witness xml:id="L950" />
-				<witness xml:id="L1126" />
-				<witness xml:id="L1602" />
-				<witness xml:id="L2211" />
+				<witness n="P3" />
+				<witness n="P4" />
+				<witness n="P37" />
+				<witness n="P45" />
+				<witness n="P53" />
+				<witness n="P59" />
+				<witness n="P66" />
+				<witness n="P69" />
+				<witness n="P75" />
+				<witness n="P88" />
+				<witness n="P120" />
+				<witness n="01" />
+				<witness n="02" />
+				<witness n="03" />
+				<witness n="04" />
+				<witness n="05" />
+				<witness n="07" />
+				<witness n="09" />
+				<witness n="011" />
+				<witness n="013" />
+				<witness n="017" />
+				<witness n="019" />
+				<witness n="021" />
+				<witness n="022" />
+				<witness n="023" />
+				<witness n="024" />
+				<witness n="026" />
+				<witness n="027" />
+				<witness n="028" />
+				<witness n="029" />
+				<witness n="030" />
+				<witness n="031" />
+				<witness n="032" />
+				<witness n="033" />
+				<witness n="034" />
+				<witness n="035" />
+				<witness n="036" />
+				<witness n="037" />
+				<witness n="038" />
+				<witness n="039" />
+				<witness n="040" />
+				<witness n="041" />
+				<witness n="042" />
+				<witness n="043" />
+				<witness n="044" />
+				<witness n="045" />
+				<witness n="050" />
+				<witness n="053" />
+				<witness n="054" />
+				<witness n="063" />
+				<witness n="070" />
+				<witness n="083" />
+				<witness n="085" />
+				<witness n="0102" />
+				<witness n="0105" />
+				<witness n="0115" />
+				<witness n="0141" />
+				<witness n="0162" />
+				<witness n="0211" />
+				<witness n="0234" />
+				<witness n="0274" />
+				<witness n="0283" />
+				<witness n="0287" />
+				<witness n="0290" />
+				<witness n="0292" />
+				<witness n="0315" />
+				<witness n="f1" />
+				<witness n="f13" />
+				<witness n="f35" />
+				<witness n="2" />
+				<witness n="9" />
+				<witness n="16" />
+				<witness n="22" />
+				<witness n="27" />
+				<witness n="33" />
+				<witness n="71" />
+				<witness n="75" />
+				<witness n="114" />
+				<witness n="119" />
+				<witness n="157" />
+				<witness n="161" />
+				<witness n="164" />
+				<witness n="184" />
+				<witness n="199" />
+				<witness n="217" />
+				<witness n="269" />
+				<witness n="274" />
+				<witness n="291" />
+				<witness n="371" />
+				<witness n="372" />
+				<witness n="431" />
+				<witness n="449" />
+				<witness n="461" />
+				<witness n="517" />
+				<witness n="544" />
+				<witness n="545" />
+				<witness n="565" />
+				<witness n="579" />
+				<witness n="585" />
+				<witness n="700" />
+				<witness n="726" />
+				<witness n="740" />
+				<witness n="804" />
+				<witness n="892" />
+				<witness n="954" />
+				<witness n="1005" />
+				<witness n="1071" />
+				<witness n="1079" />
+				<witness n="1093" />
+				<witness n="1167" />
+				<witness n="1192" />
+				<witness n="1200" />
+				<witness n="1216" />
+				<witness n="1241" />
+				<witness n="1243" />
+				<witness n="1273" />
+				<witness n="1319" />
+				<witness n="1321" />
+				<witness n="1325" />
+				<witness n="1342" />
+				<witness n="1365" />
+				<witness n="1424" />
+				<witness n="1519" />
+				<witness n="1574" />
+				<witness n="1675" />
+				<witness n="2597" />
+				<witness n="2786" />
+				<witness n="L63" />
+				<witness n="L387" />
+				<witness n="L547" />
+				<witness n="L627" />
+				<witness n="L773" />
+				<witness n="L844" />
+				<witness n="L846" />
+				<witness n="L848" />
+				<witness n="L849" />
+				<witness n="L950" />
+				<witness n="L1126" />
+				<witness n="L1602" />
+				<witness n="L2211" />
 			</listWit>
 		</sourceDesc>
 	</teiHeader>
@@ -182,13 +182,6 @@
 					<rdg
 						wit="01 03 04 05S 017 019 021 030 032 036 037 041 042 0211 f1 f13 9 16 22 33 71C 114 119 157 161 184 217 274A 291 371 372 449 565 585 700 804 892 1005 1071 1079 1093 1200 1216 1241 1273 1325 1365 1675 L547 L844 L1126 L2211">και πυρι</rdg>
 				</app>
-				<!-- Matt 7:6 -->
-				<app>
-					<rdg
-						wit="01 03 04 07 011 017 019 021 022 028 030 031 032 033 037 038 041 042 043 045 0211 0287 f1 f13 2 9 16 22 27 33 71 75 114 119 161 164 184 199 217 269 274C 291 371 372 449 517 545 565 579 585 700 726 804 892 954 1005 1071 1079 1167 1192 1216 1241 1243 1273 1319 1321 1325 1365 1424T 1519 1675 L63 L387 L547 L627 L773 L844 L848 L950 L2211">το αγιον</rdg>
-					<rdg
-						wit="f1 157 274A 431 461 544 740 1093 1200 1342 1424K 2786">τα αγια</rdg>
-				</app>
 				<!-- Matt 8:13 -->
 				<app>
 					<rdg
@@ -196,14 +189,6 @@
 					<rdg
 						wit="01* 01C2 04 07T 021 022 030 033 038 042 043 0211 f1 f13 9 16 22 33 119 161 184 274A 449 544 545 740 1005 1093 1216 1241 1365 1424A">add longer reading</rdg>
 					<rdg wit="L844">add lectionary explicit</rdg>
-				</app>
-				<!-- Matt 13:32 -->
-				<app>
-					<rdg
-						wit="01 03 04 05 07 09 011 019 021 022 023 028 030 031 032 033 036 037 038 042 043 045 0211 f1 f13 2 16 22 27 33 71 119 164 184 199 274T 461 517 579 700 740 892 954 1093 1192 1216 1241 1273 1325 1342 1675 2786 L773"/>
-					<rdg
-						wit="017 034 041 f35 9 75 114 157 269 274A 291 371 431 449 544 545 565 585 726 804 1005 1071 1079 1167 1200 1243 1319 1321 1365 1424 1519 1574 L950">παντων</rdg>
-					<rdg wit="372">αυτων</rdg>
 				</app>
 				<!-- Matt 20:23 -->
 				<app>
@@ -257,13 +242,6 @@
 					<rdg wit="565">replace the entire phrase and repeat the corresponding
 						phrase from v. 10</rdg>
 				</app>
-				<!-- Mark 9:42 -->
-				<app>
-					<rdg
-						wit="07 09 011 013 017 021* 028 030 032 033 034C 036 041 042 044 045 0211 f13 f35 2 9 22 27 71 75 114 157 164 199 274T 291 371 431 449 461 544 545 585 726 740 804 892 1005 1079 1167 1192 1200 1273 1319 1321 1325 1365 1519"/>
-					<rdg
-						wit="01 02 03 04 05 019 021C 022 034* 037 038 043 f1 16 119 184 217 269 274A 372 517 565 579 700 954 1071 1093 1216 1241 1243 1342 1424 1574 1675 2786 L387 L773 L950">τουτων</rdg>
-				</app>
 				<!-- Mark 12:26 -->
 				<app>
 					<rdg
@@ -271,13 +249,6 @@
 					<rdg
 						wit="05 021 032 038 042 044C 16 33 184 274A 372 517 565 700 726 954 1093 1216 1243 1342 1424 1675 2786">επι της βατου</rdg>
 					<rdg wit="157">επι τη βατω</rdg>
-				</app>
-				<!-- Mark 13:2 -->
-				<app>
-					<rdg
-						wit="02 07 09 013 017 021* 028 033 034 036 041 043 045 0211 2 9 16 22 27 71 75 114 119 157 161 164 184 199 217 269 274T 291 371 431 449 461 544 545 585 726 740 804 1005 1079 1093 1167 1192 1200 1216 1241 1243 1273 1319 1321 1325 1365 1519 2542"/>
-					<rdg
-						wit="01 03 05 011 019 021C 030 032 037 038 042 044 f1 f13 f35 28 33 274A 372 517 565 579 700 892 954 1071 1342 1424 1574 1675 2786 L387 L773 L950">ωδε</rdg>
 				</app>
 				<!-- Mark 13:18 -->
 				<app>
@@ -314,15 +285,6 @@
 				</app>
 			</div>
 			<div type="book" n="B03">
-				<!-- Luke 2:21 -->
-				<app>
-					<rdg
-						wit="01 02 03 017 019 027 028 030 031 033 034 037 038 039 040 041 044 f1 f35 16 22 27 114 161 274T 291 371 449 461 545 565 579 585 700 726 804 892 954 1005 1071 1079 1192 1200 1241 1319 1321 1365 1424 1519 1675 L627 L1126 1243">αυτον</rdg>
-					<rdg wit="9 184 1342 1216">αυτο</rdg>
-					<rdg
-						wit="05 07 011 013 021 045 053 f13 2 33 71 75 119 157 164 199 217 269 274A 372 431 1093 1167 1325 2786 L63 L387 L773 L848 L849">το παιδιον</rdg>
-					<rdg wit="036">αυτο το παιδιον</rdg>
-				</app>
 				<!-- Luke 5:19 -->
 				<app>
 					<rdg
@@ -384,13 +346,6 @@
 						wit="P45 P75 01 02 03 04 05 07 09 011 013 017 019 021 028 030 031 032 033 034 036 037 038 039 040 041 044 045 0211 f1 f13 f35 2 9 16 22 27 33 71 75 114 119 157 161 164 184 199 217 269 274T 291 371 372 449 461 544 545 565 579 585 700 726 740 804 892 954 1005 1071 1079 1093 1167 1192 1200 1216 1243 1273 1319 1321 1325 1365 1424 1519 1574 1675 2786 L387 L773 L950"/>
 					<rdg wit="274A 1342">τοπον before or after αυτω</rdg>
 				</app>
-				<!-- Luke 11:29 -->
-				<app>
-					<rdg
-						wit="04 07 017 021 028 030 031 032 034 036 037 039 041 045 0211 f35 2 9 16 27 71 75 114 119 161 184 199 217 269 274T 291 371 372 431 449 461 544 545 565 579 585 726 740 804 954 1079 1093 1167 1200 1216 1243 1273 1319 1321 1325 1424 1519 1574 1675 2542 L950 L2211"/>
-					<rdg
-						wit="P75 01 02 03 05 019 033 038 040 044 070 f1 f13 22 33 157 164 274A 700 892 1005 1071 1192 1241 1342 1365 2786 L387 L773">γενεα</rdg>
-				</app>
 			</div>
 			<div type="book" n="B04">
 				<!-- John 1:28 -->
@@ -399,16 +354,6 @@
 						wit="P66 P75 01* 02 03 04* 07 09 011 013 019 021 022 028 031 032S 034 037 038 044 045 063 0211 f1 2* 9 16 22A 27 71 75 114C 119 157 161 184 217 269 274T 291 371 431 449 461 544 545 579 585T 700 726 740T 804* 892T 954 1005 1167 1200 1216 1241 1243 1273 1319 1321 1342 1424 1574 1675 2786 L387 L547S L627 L950 199* L1126 033 565 1071 1192A 1325 1519 L848">εν βηθανια</rdg>
 					<rdg
 						wit="04C1 017 029 036 041 083 f1 f13 2C 22T 33 114* 164* 199C1 274A 372 585A 740K 804C 892A 1079 1093 1192T L773 030 0141 f35 199C2 1365 039 01C2 164C">εν βηθαβαρα</rdg>
-				</app>
-				<!-- John 19:35 -->
-				<app>
-					<rdg
-						wit="01 02 03 05S 019 021 032 033 036 038 041 044 0141 0211 f1 f13 2 9 16 33 114 157 184 274T 449 461 565 1071 1079 1200S 1243 1273 1342 2786 L63/3 L63/4 L63C/1 L627/1 L773/2 L844 L1126/2">αυτου εστιν η μαρτυρια</rdg>
-					<rdg
-						wit="P66 07 011 017 022 028 030 034 039 045 0290 22 71 75 119 164 199 269 291 371 431 700 892S 954 1167* 1192 1216 1675 L547 L773/1 L773/3 L848/2 L1126/3 L387">εστιν αυτου η μαρτυρια</rdg>
-					<rdg
-						wit="013 054 f13 f35 27S 217 274A 544 545 585 726 740 1005 1093 1167C 1241 1319 1321 1325 1365 1424 1519 1574 L63/2 L63/5 L627/2 L627/3 L773/4 L848/1 L848/3 L849/3 L950/3 L1126/1 579">εστιν η μαρτυρια αυτου</rdg>
-					<rdg wit="L63*/1">εστιν η μαρτυρια</rdg>
 				</app>
 			</div>
 		</body>
