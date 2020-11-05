@@ -83,7 +83,7 @@
 <lb n="P7vC1L-274"/></ab></div><div type="chapter" n="B01K2"><ab n="B01K2V1"><w>του</w><w>δε</w><w><abbr type="nomSac"><hi rend="overline">ιυ</hi></abbr></w><app><rdg type="orig" hand="firsthand"><w><abbr type="nomSac"><hi rend="overline">χυ</hi></abbr></w></rdg><rdg type="corr" hand="corrector"/></app><w>γεννηθεντος</w><w>εν</w><w>βηθλεεμ</w><w>της</w>
 <lb n="P7vC1L-274"/><w>ιουδαιας</w><w>εν</w><w>ημεραις</w><w>ηρωδου</w><w>του</w><w>βασι
 <lb n="P7vC1L-274" break="no"/>λεως</w><w>ιδου</w><w>μαγοι</w><w>απο</w><w>ανατολων</w><w>παρεγε
-<lb n="P7vC1L-274" break="no"/>νοντο</w><w>εις</w><w>ιεροσολημ</w></ab><ab n="B01K2V2"><w>λεγοντες</w><w>που</w><w>εστιν</w>
+<lb n="P7vC1L-274" break="no"/>νοντο</w><w>εις</w><app><rdg type="orig" hand="firsthand"><w>ι<unclear>εροσολυμα</unclear></w></rdg><rdg rdg type="corr" hand="corrector"><w>ιερουσαλημ</w></rdg></app></ab><ab n="B01K2V2"><w>λεγοντες</w><w>που</w><w>εστιν</w>
 <lb n="P7vC1L-274"/><w>ο</w><w>τεχθεις</w><w>βασιλευς</w><w>των</w><w>ιουδαιων</w><w>ειδομεν</w>
 <lb n="P7vC1L-274"/><w>γαρ</w><w>αυτου</w><w>τον</w><w>αστερα</w><w>εν</w><w>τη</w><w>ανατολη</w><w>και</w><w>ηλ
 <lb n="P7vC1L-274" break="no"/>θομεν</w><w>προσκυνησαι</w><w>αυτω</w></ab><ab n="B01K2V3"><w>ακουσας</w>
@@ -909,7 +909,7 @@
 <lb n="P23rC1L-274"/><w>αξιος</w><w>εστιν</w><w>κακει</w><w>μεινατε</w><w>εως</w><w>αν</w><w>εξελ
 <lb n="P23rC1L-274" break="no"/>θητε</w></ab><ab n="B01K10V12"><w>εισερχομενοι</w><w>δε</w><w>εις</w><w>την</w><w>οικιαν</w><w>ασ
 <lb n="P23rC1L-274" break="no"/>πασασθε</w><w>αυτην</w></ab><ab n="B01K10V13"><w>και</w><w>εαν</w><w>μεν</w><w>η</w><w>η</w><w>οικια</w><w>α
-<lb n="P23rC1L-274" break="no"/>ξια</w><app><rdg type="orig" hand="firsthand"><w><gap reason="illegible" unit="char" extent="2"/>ελθετω</w></rdg><rdg type="corr" hand="corrector"><w>ελθετω</w></rdg></app><w>η</w><w>ειρηνη</w><w>υμων</w><w>επ</w><w>αυτην</w>
+<lb n="P23rC1L-274" break="no"/>ξια</w><app><rdg type="orig" hand="firsthand"><w><unclear>εισ</unclear>ελθετω</w></rdg><rdg type="corr" hand="corrector"><w>ελθετω</w></rdg></app><w>η</w><w>ειρηνη</w><w>υμων</w><w>επ</w><w>αυτην</w>
 <lb n="P23rC1L-274"/><w>εαν</w><w>δε</w><w>μη</w><w>η</w><w>αξια</w><w>η</w><w>ειρηνη</w><w>υμων</w><w>προς</w><w>υ
 <lb n="P23rC1L-274" break="no"/>μας</w><w>επιστραφητω</w></ab><ab n="B01K10V14"><w>και</w><w>ος</w><w>εαν</w><w>μη</w><w>δε
 <lb n="P23rC1L-274" break="no"/>ξηται</w><w>υμας</w><w>μηδε</w><w>ακουση</w><w>τους</w><w>λογους</w><w>υμων</w>
