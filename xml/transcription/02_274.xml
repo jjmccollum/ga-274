@@ -618,7 +618,7 @@
 <lb n="P78vC1L-274" break="no"/>μενης</w><w>ημερας</w><w>ευκαιρου</w><w>οτε</w><w>ηρωδης</w><gap reason="lacuna" unit="verse" extent="part"/><gap reason="lacuna" unit="chapter" extent="part"/><gap reason="lacuna" unit="page" extent="2"/>
 <pb n="80r" type="folio" xml:id="P80r-274"/>
 <cb n="P80rC1-274"/>
-<lb n="P80rC1L-274" rend="hang"/><w><gap reason="lacuna" unit="chapter" extent="part"/></w></ab><ab n="B02K6V54"><gap reason="lacuna" unit="verse" extent="part"/><w><gap reason="lacuna" unit="word" extent="part"/><hi rend="cap" height="1">τ</hi>ων</w><w>αυτων</w><w>εκ</w><w>του</w><w>πλοιου</w><w>ευθεως</w><w>επιγνο<ex rend="̅">ν</ex>
+<lb n="P80rC1L-274" rend="hang"/><gap reason="lacuna" unit="chapter" extent="part"/></ab><ab n="B02K6V54"><gap reason="lacuna" unit="verse" extent="part"/><w><gap reason="lacuna" unit="word" extent="part"/></w><w><hi rend="cap" height="1">τ</hi>ων</w><w>αυτων</w><w>εκ</w><w>του</w><w>πλοιου</w><w>ευθεως</w><w>επιγνο<ex rend="̅">ν</ex>
 <lb n="P80rC1L-274" break="no"/>τες</w><w>αυτον</w></ab><ab n="B02K6V55"><w>περιδραμοντες</w><w>ολην</w><w>την</w><w>πε
 <lb n="P80rC1L-274" break="no"/>ριχωρον</w><w>εκεινην</w><w>ηρξαντο</w><w>επι</w><w>τοις</w>
 <lb n="P80rC1L-274"/><w>κραβαττοις</w><w>τους</w><w>κακως</w><w>εχοντας</w><w>προσ
@@ -2024,10 +2024,10 @@
 <lb n="P104vC1L-274"/><w>και</w><w>εκαθισεν</w><w>εκ</w><w>δεξιων</w><w>του</w><w><abbr type="nomSac"><hi rend="overline">θυ</hi></abbr></w></ab><ab n="B02K16V20"><w>εκει
 <lb n="P104vC1L-274" break="no"/>νοι</w><w>δε</w><w>εξελθοντες</w><w>εκηρυξαν</w><w>παντα
 <lb n="P104vC1L-274" break="no"/>χου</w><w>του</w><w><abbr type="nomSac"><hi rend="overline">κυ</hi></abbr></w><w>συνεργουντος</w><w>και</w><w>τον</w>
-<lb n="P104vC1L-274"/><w>λογον</w><w>βεβαιουντος</w>
-<lb n="P104vC1L-274"/><w>δια</w><w>των</w><w>επα
-<lb n="P104vC1L-274" break="no"/>κολουθουντων</w>
-<lb n="P104vC1L-274"/><w>σημειων</w>
-<lb n="P104vC1L-274"/><w>αμην</w>
-<lb n="P104vC1L-274"/></ab></div><div type="explicit" n="B02explicit"><w>ευαγγελιον</w>
-<lb n="P104vC1L-274"/><w>κατα</w><w>μαρκον</w><ab/></div></div></body></text></TEI>
+<lb n="P104vC1L-274" rend="centerJust"/><w>λογον</w><w>βεβαιουντος</w>
+<lb n="P104vC1L-274" rend="centerJust"/><w>δια</w><w>των</w><w>επα
+<lb n="P104vC1L-274" rend="centerJust" break="no"/>κολουθουντων</w>
+<lb n="P104vC1L-274" rend="centerJust"/><w>σημειων</w>
+<lb n="P104vC1L-274" rend="centerJust"/><w>αμην</w>
+<lb n="P104vC1L-274" rend="centerJust"/></ab></div><div type="explicit" n="B02explicit"><ab><w>ευαγγελιον</w>
+<lb n="P104vC1L-274" rend="centerJust"/><w>κατα</w><w>μαρκον</w></ab></div></div></body></text></TEI>
