@@ -3,7 +3,7 @@ Transcription and collation data on the tenth-century minuscule Bibliothèque na
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-## About this Project
+## About This Project
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
