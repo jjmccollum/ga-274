@@ -1,5 +1,5 @@
 # ga-274
-Data for the study on the tenth-century minuscule Gregory-Aland 274.
+Transcription and collation data on the tenth-century minuscule Bibliothèque nationale de France Suppl. Gr. 79 (Gregory-Aland 274).
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
