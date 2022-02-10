@@ -16,4 +16,4 @@ This work is licensed under a
 
 ## Citing This Resource
 
-If you wish to reference this work, please cite the associated paper: Joey McCollum, "The Text and Margin of Gregory-Aland 274," _TC_ 26 (2021). 
+If you wish to reference this work, please cite the associated paper: Joey McCollum, "The Text and Margin of Gregory-Aland 274," _TC_ 26 (2021), 47–131.
